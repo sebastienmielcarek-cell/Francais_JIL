@@ -1,0 +1,8 @@
+{
+  "name": "Professeur Virtuel FWB",
+  "description": "Assistant pédagogique virtuel pour la Fédération Wallonie-Bruxelles, intégrant chat, voix en temps réel et création multimédia.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
